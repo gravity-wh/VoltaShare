@@ -22,3 +22,6 @@ venv/
 # 本地覆盖
 .env
 .envrc.local
+
+# 本地 agent 工作记忆，不入仓库
+.workbuddy/
